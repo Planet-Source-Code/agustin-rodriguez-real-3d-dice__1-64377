@@ -1,0 +1,4 @@
+This is a bit of my "REAL 3D BACKGAMMON" project that I will publish soon.
+I believe that this is the ultimate procedure to make Games that uses Dice.
+Requires Windows XP
+
